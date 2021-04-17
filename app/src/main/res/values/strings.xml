@@ -1,0 +1,13 @@
+<resources>
+    <string name="no_camera_access" translatable="false">请给予相机权限</string>
+    <string name="camera_change" translatable="false">相机切换</string>>
+    <string name="portrait_segmentation" translatable="false">背景分割</string>
+    <string name="hair_segmentation" translatable="false">发色替换</string>
+    <string name="main_description" translatable="false">
+        派图，power by Mediapipe\n
+        基于深度学习的图像分割❤
+    </string>
+    <string name="code_info" translatable="false">
+        Github: https://github.com/zzzzzzpc/portrait-segmentation\nEmail: hellozpc@163.com
+    </string>
+</resources>
