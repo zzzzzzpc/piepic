@@ -1,6 +1,6 @@
 # 派图
 
-<img src="https://github.com/zzzzzzpc/portrait-segmentation/blob/master/app/src/main/res/drawable/portrait.png?raw=true" width="20%" height="20%" />
+<img src="https://github.com/zzzzzzpc/piepic/blob/master/app/src/main/res/drawable/portrait.png?raw=true" width="20%" height="20%" />
 
 派图app采用了mediapipe框架，通过神经网络方法实现安卓平台实时的图像分割。
 
